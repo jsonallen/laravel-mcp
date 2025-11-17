@@ -1,7 +1,7 @@
 # Laravel Helpers MCP
 
-⚠️ **ALPHA SOFTWARE WARNING** ⚠️
-This package is currently in alpha stage. APIs and functionality may change without notice. Use in production at your own risk.
+## ⚠️ Project Deprecated 
+**This project is no longer under development.  I recommend using [Larvel Boost](https://github.com/laravel/boost) if you're looking for a fully featured Laravel MCP server**
 
 ## Overview
 A collection of Laravel helper tools specifically designed for integration with [Cursor IDE](https://cursor.sh), improving development workflow and debugging capabilities directly within your editor.
