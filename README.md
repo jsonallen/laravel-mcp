@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jsonallen-laravel-mcp-badge.png)](https://mseep.ai/app/jsonallen-laravel-mcp)
+
 # Laravel Helpers MCP
 
 ## ⚠️ Project Deprecated 
